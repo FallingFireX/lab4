@@ -3,5 +3,5 @@ module minterm (
     output Y
 );
 
-    assign Y = (C & ~D) | (B & ~D) | (~A & ~B & D); 
+    assign Y = (~D | ~B) & (~A |~D) & (B | C | D); 
 endmodule
