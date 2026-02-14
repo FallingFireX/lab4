@@ -16,9 +16,10 @@ using an implemented design on your Basys3 boards.
 ## Lab Summary
 
 Summarize your learnings from the lab here.
+
 Team 50
-Fallingfirex: Sydney Hurst
-collingreen-del: Collin Green
+- Fallingfirex: Sydney Hurst
+- collingreen-del: Collin Green
 
 We learned how to practically apply Sum of Products and Product of sums in a physical/code sense. 
 
