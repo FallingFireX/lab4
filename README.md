@@ -25,6 +25,7 @@ We learned how to practically apply Sum of Products and Product of sums in a phy
 The grid is actually a Toroid, which means its more doughnut shaped rather than a flat rectangle. 
 
 ### Why are the names Sum of Products and Products of Sums?
+Sum of Products ORs together ANDed terms; while Product of Sums ANDs together ORed terms.
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
 Because XOR can detect differences (i.e if the output is 1, there is a mismatch). then by it testing if the LEDs compared to one another are 0 or not, it can tell if the signals match. Because an output of 1 would indicate they do not match.
